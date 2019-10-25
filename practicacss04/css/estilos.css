@@ -4,6 +4,21 @@ body{
 	max-width: 1024px;
 	min-width: 1024px;
 }
+header nav{
+	margin-left: -40px;
+}
+header nav ul li{
+	display: inline-block;
+	font-style: bold;
+	margin-right: 15px;
+	margin-top: 50px;	
+}
+header hr{
+	margin-top: -50px;
+	border: dashed 1.5px;	
+	border-style:none none dashed none;
+	color: #b4b4b4;
+}	
 #bandera{
 	float: right;
 	margin-left: 5px;
@@ -11,6 +26,16 @@ body{
 }
 #first_bike{
 	margin-top: 40px;
+}
+#go_to_shop{
+	float: right;
+	margin-top: -150px;
+	margin-right: 100px;
+}
+#buy{
+	position: relative;
+	left: 629px;
+	top: -75px;
 }
 #logo_rojo{
 	float: right;
@@ -21,4 +46,16 @@ body{
 	float: right;
 	margin-left: 5px;
 	margin-top: 10px;
+}
+.colornegro{
+	color: #131313;
+}
+.colorverde{
+	color: #73f33d;
+}
+.letragrande{
+	font-size: 5em;
+}
+.nito{
+	font-weight: bold;
 }
