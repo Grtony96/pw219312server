@@ -1,0 +1,85 @@
+body{
+	font-size: 16px;
+	margin: 0px auto;
+	max-width: 1024px;
+	min-width: 1024px; 
+}
+#seccion01 article{
+	vertical-align: top;
+	display: inline-block;
+	text-align: center;
+}
+#seccion01 article img{
+	float: left;
+	margin-left: 50px;
+	margin-top: 58px;
+	width: 150px;
+}
+#seccion02 article{
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+}
+#seccion02 article img{
+	margin-left: 50px;
+	margin-top: 35px;
+	width: 50px;
+}
+#secc01art01{
+	height: 350px;
+	background: #f1efef;
+	width: 555px;
+}
+#secc01art01 input{
+	color: black;
+	background:  #f1efef;
+	border: solid black 1.25px;
+	border-radius: 8px;
+}
+#secc01art02{
+	height: 350px;
+	background: #606060;
+	width: 450px;
+}
+#secc01art02 input{
+	color: white;
+	background:  #606060;
+	border: solid white 1.25px;
+	border-radius: 8px;
+}
+#secc02art01{
+	height: 200px;
+	background: #55aced;
+	width: 410px;
+}
+#secc02art02{
+	height: 200px;
+	background: #d0dccf;
+	width: 250px;
+}
+#secc02art02 input{
+	color: black;
+	background:  #d0dccf;
+	border: solid black 1.25px;
+	border-radius: 8px;
+}
+#secc02art03{
+	height: 200px;
+	background: #787777;
+	width: 340px;
+}
+#secc02art03 input{
+	color: white;
+	background:  #787777;
+	border: solid white 1.25px;
+	border-radius: 8px;
+}
+.nito{
+	font-weight: bold;
+}
+.colorblanco{
+	color: white;
+}
+.letragrande{
+	font-size: 1.8em;
+}
